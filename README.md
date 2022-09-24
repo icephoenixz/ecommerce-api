@@ -7,6 +7,8 @@
 
 Tienda en línea multiplataforma, la cual cuenta con un sistema de pagos en línea, cobro de comisión por transición, envió de SMS, registro de tiendas entre otras características.
 
+https://www.youtube.com/watch?v=mJKyrIix6hc&list=PLVsoX1f7YHL3Br3-0xxbLZedcYKW1zCi5&index=10
+
 > __¿Eres desarrollador?__ Si te gustaria ayudar a crecer el proyecto tenemos un grupo de [Slack](https://desarrolloah.slack.com/archives/C0133SK41EZ) en donde organizamos la tareas.
 
 
@@ -17,8 +19,6 @@ Tienda en línea multiplataforma, la cual cuenta con un sistema de pagos en lín
 - [https://tienda.mochileros.com.mx/](https://tienda.mochileros.com.mx/)
 
 ![](https://i.imgur.com/1KYwHuo.png)
-
-https://www.youtube.com/watch?v=mJKyrIix6hc&list=PLVsoX1f7YHL3Br3-0xxbLZedcYKW1zCi5&index=10
 
 # Requerimientos
 > - PHP 7.1 o superior
