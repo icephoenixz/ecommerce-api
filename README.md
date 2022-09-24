@@ -18,6 +18,8 @@ Tienda en línea multiplataforma, la cual cuenta con un sistema de pagos en lín
 
 ![](https://i.imgur.com/1KYwHuo.png)
 
+https://www.youtube.com/watch?v=mJKyrIix6hc&list=PLVsoX1f7YHL3Br3-0xxbLZedcYKW1zCi5&index=10
+
 # Requerimientos
 > - PHP 7.1 o superior
 > - MariaDB 10.2 o superior / MySQL 5.7.8 o superior
